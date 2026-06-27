@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Amazon Demo",
+    "slug": "amazon-expo-demo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#223142"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
